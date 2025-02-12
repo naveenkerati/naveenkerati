@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi! I'm NAVEEN KERATI
+---
+- ⚡DevOps Engineer based in DALLAS, TEXAS.
+- 🤔I'm interested in Orchestration, DevOps, Security, Data management, Data architecture, and Software Engineering. 
+- 🧙‍♀️🔮 I'm currently exploring HL7 and AI and machine learning to enhance my skills in these subjects
 
-<!--
-**naveenkerati/naveenkerati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Skills
+---
+- **DevOps:** Managing CI/CD pipelines and implementing Infrastructure as Code (IaC) using tools such as Terraform and Ansible. Expertise in Kubernetes and containerization, with a focus on ensuring application reliability, security, and scalability.
 
-Here are some ideas to get you started:
+### Let's Connect!
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: [NAVEEN KERATI](https://www.linkedin.com/in/naveenkerati/)
+
+Feel free to reach out if you share similar interests, or if you have exciting opportunities for collaboration!
