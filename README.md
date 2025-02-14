@@ -2,7 +2,7 @@
 ---
 - ⚡Senior DevOps Engineer based in DALLAS, TEXAS.
 - 🤔I'm interested in Orchestration, DevOps, Security, Data management, Data architecture, and Software Engineering. 
-- 🧙‍♀️🔮 I'm currently exploring HL7 and AI and machine learning to enhance my skills in these subjects
+- 🧙‍♀️🔮 I'm currently exploring HL7 and AI and machine learning to enhance my skills in healthcare IT.
 
 ### My Skills
 ---
